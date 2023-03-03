@@ -1,0 +1,33 @@
+{
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "scope": ".",
+    "start_url": "index.html",
+    "name": "Soham Kayal - E-commerce Website",
+    "short_name": "Soham - E-commerce",
+    "description": "This is an E-Commerce website",
+    "icons": [
+        {
+            "src": "images/icon-192x192.jpeg",
+            "sizes": "192x192",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "images/icon-192x192.jpeg",
+            "sizes": "256x256",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "images/icon-192x192.jpeg",
+            "sizes": "384x384",
+            "type": "image/jpeg"
+        },
+        {
+            "src": "images/icon-192x192.jpeg",
+            "sizes": "512x512",
+            "type": "image/jpeg",
+            "purpose":"any maskable"
+        }
+    ]
+}
